@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -hR betty:alxschool .
+chmod -hR vincent:staff .
