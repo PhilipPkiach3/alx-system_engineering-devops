@@ -1,2 +1,2 @@
 #!/bin/bash
-makdir -P welcome/to/school
+makdir -p welcome/to/halberton
